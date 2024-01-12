@@ -1,0 +1,73 @@
+body {
+  background-color: white;
+  font-family: "Avenir";
+  font-size: 18px;
+  color: black;
+}
+b {
+  color: blue;
+}
+
+.header {
+  font-size: 30px;
+}
+
+.tabledata {
+  word-wrap: break-word;
+  max-width: 1300px;
+}
+
+.img-link {
+    text-decoration: none;
+}
+
+.layout-header-menu {
+    width: 100%;
+    height: 3rem;
+    font-family: "Avenir";
+    font-size: 45px;
+    line-height: 2rem;
+    margin-left: 6rem;
+    color: black;
+    background-color: white;
+}
+
+.layout-header-spacer {
+    width: 100%;
+    height: 5rem;
+    background-color: #29272e;
+}
+
+.layout-table-spacer-outside {
+    width: 4rem;
+    height: 2rem;
+}
+
+.layout-table-spacer-in-between {
+    width: 2rem;
+    height: 2rem;
+}
+
+.profileimg {
+    border: 5px solid #29272e;
+}
+
+a.nav-link:link {
+    color: blue;
+    text-decoration: underline;
+}
+
+a.nav-link:visited {
+  color: blue;
+  text-decoration: underline;
+}
+
+a.nav-link:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+a.nav-link:active {
+  color: blue;
+  text-decoration: underline;
+}
